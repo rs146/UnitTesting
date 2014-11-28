@@ -1,0 +1,7 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="com.blackcrowsys.GenerateParcelCodeTest" tests="1" failures="0" errors="0" timestamp="2014-08-16T20:39:42" hostname="maci03.local" time="0.325">
+  <properties/>
+  <testcase name="testStaticMethodForGenerateParcelCode" classname="com.blackcrowsys.GenerateParcelCodeTest" time="0.325"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
